@@ -1,6 +1,7 @@
 # tum-cv-challenge
 cv-challenge from tum ss2022
-Application "Tour-Into-The-Picture" Manual
+
+#Application "Tour-Into-The-Picture" Manual
 
 Step 1: Please open the application, select a picture by clicking the button 'choose image', the picture can be previewed in the middle. 
 
