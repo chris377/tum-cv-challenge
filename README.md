@@ -6,6 +6,8 @@ cv-challenge from tum ss2022
 
 
 Application "Tour-Into-The-Picture" Manual
+*based on the old version
+improvement: solve the problem of not showing 3D-Box directly on the app interface, not able to choose vanishing point and the corner points directly on the app interface, the problem of not able to choose more than 1 foreground, the problem of not able to deal with tilted image.
 
 Step 1: Please open the application, select a picture by clicking the button 'choose image', the picture can be previewed in the middle. 
 
